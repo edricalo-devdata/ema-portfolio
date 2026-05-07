@@ -8,7 +8,7 @@ The project is structured for future **Python Flask** and **database integration
 
 ## 🔗 Live Preview
 
-[![Live Preview](https://img.shields.io/badge/View-Live--Demo-brightgreen?style=for-the-badge&logo=google-chrome)](https://drice24.github.io/ema-portfolio/)
+[![Live Preview](https://img.shields.io/badge/View-Live--Demo-brightgreen?style=for-the-badge&logo=google-chrome)](https://edricalo-devdata.github.io/ema-portfolio/)
 
 -----
 
